@@ -8,7 +8,7 @@ To run this program you can go to ****
 To update and play around with the code feel free to clone the repository!
 
 ## Potential improvements 
-I hope to never run this program again, its spooky. 
+I hope to never run this again, its spooky. 
 
 ## License info
 Contents of this repo are licensed MIT. See license for further info. 
