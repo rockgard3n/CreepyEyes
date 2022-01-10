@@ -3,7 +3,7 @@
 Two eyes are created and follow a users mouse around the window. Personally, I think its a bit offputing. 
 
 ## How to run 
-To run this program you can go to ****
+To run this program you can go to [here](https://rockgard3n.github.io/CreepyEyes/)
 
 To update and play around with the code feel free to clone the repository!
 
